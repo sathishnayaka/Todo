@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+}
+button{
+    margin-top: 50px;
+    border: lightblue;
+    padding: 25px;
+}
+.todos{
+    display: flex;
+    width: max-content;
+    align-items: center;
+    background-color: chartreuse;
+    width: max-content;
+}
+.firstul{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(182, 149, 149);
+    width: max-content;
+}
